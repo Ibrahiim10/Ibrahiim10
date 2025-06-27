@@ -53,7 +53,10 @@ I’m creative, focused, and always ready to try something new. I believe learni
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ibrahiim10&show_icons=true&theme=tokyonight" width="48%" />
+ <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ibrahiim10&theme=tokyonight" width="48%" />
+</div>
+
 </p>
 
 <p align="center">
