@@ -19,11 +19,11 @@ I’m creative, focused, and always ready to try something new. I believe learni
 
 🌍 I live in Nairobi, Kenya
 
-✉️ Contact me: ibrahimbuthul@gmail.com
+✉️ Contact me: ibrahimbuthul10@gmail.com
 
 🤝 Open to collaborating on open source, freelance gigs, and creative frontend projects
 
-⚡ Fun Fact: I really love JavaScript – but shhh… don’t tell the other languages 😄
+⚡ Fun Fact: I really love JavaScript  but shhh… don’t tell the other languages 😄
 
 
 
