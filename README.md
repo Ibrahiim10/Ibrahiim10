@@ -29,10 +29,7 @@ I’m creative, focused, and always ready to try something new. I believe learni
 
 ---
 
-### 🧠 Skills & Tools
-
-**Languages & Frameworks**
-
+### 🧠 Skills 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
