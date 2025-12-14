@@ -58,12 +58,7 @@ I’m creative, focused, and always ready to try something new. I believe learni
  <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ibrahiim10&theme=tokyonight" width="48%" />
 </div>
-
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahiim10&layout=compact&theme=tokyonight" width="48%" />
-</p>.
 
 <a href="https://github.com/Ibrahiim10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahiim10&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
