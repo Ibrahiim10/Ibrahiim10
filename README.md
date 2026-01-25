@@ -70,5 +70,3 @@ I’m creative, focused, and always ready to try something new. I believe learni
 
 ---
 
-> *“Code is not just code, it's a story you write for machines and humans.”*
-
