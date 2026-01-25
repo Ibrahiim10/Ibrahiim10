@@ -31,15 +31,21 @@ I’m creative, focused, and always ready to try something new. I believe learni
 
 ### 🧠 Skills 
 
-!(https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-!(https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+  <div style="background:#0f172a; padding:14px; border-radius:14px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34"/>
+  </div>
+  <div style="background:#0f172a; padding:14px; border-radius:14px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="34"/>
+  </div>
+  <div style="background:#0f172a; padding:14px; border-radius:14px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34"/>
+  </div>
+  <div style="background:#0f172a; padding:14px; border-radius:14px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34"/>
+  </div>
+</div>
+
 
 ---
 
