@@ -31,21 +31,19 @@ I’m creative, focused, and always ready to try something new. I believe learni
 
 ### 🧠 Skills 
 
-<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
-  <div style="background:#0f172a; padding:14px; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34"/>
-  </div>
-  <div style="background:#0f172a; padding:14px; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="34"/>
-  </div>
-  <div style="background:#0f172a; padding:14px; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34"/>
-  </div>
-  <div style="background:#0f172a; padding:14px; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34"/>
+<div style="display:flex; gap:14px; align-items:center; flex-wrap:wrap;">
+  <div style="background:#0b1220; padding:14px; border-radius:14px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/>
   </div>
 </div>
-
 
 ---
 
